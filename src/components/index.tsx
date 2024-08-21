@@ -3,6 +3,7 @@ import Container from "./container";
 import Footer from "./footer";
 import Header from "./header";
 import Main from "./main";
+import SkillsCard from "./skills-card";
 import Wrapper from "./wrapper";
 
 export {
@@ -11,5 +12,6 @@ export {
     Wrapper,
     Header,
     CallToAction,
-    Footer
+    Footer,
+    SkillsCard
 }
