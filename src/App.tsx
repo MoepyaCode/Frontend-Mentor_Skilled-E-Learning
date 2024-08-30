@@ -22,7 +22,7 @@ export default function App() {
   }
 
   return (
-    <Main className='relative font-plus-jakarta bg-white flex flex-col min-w-full overflow-x-hidden'>
+    <Main className='relative font-plus-jakarta bg-white flex flex-col min-w-full overflow-x-hidden 2xl:max-h-max'>
       <Header />
 
       <Container className='flex flex-col md:gap-[210px] xl:gap-[250px]'>
